@@ -1,7 +1,7 @@
 {
-    "name": "homebridge-esplock",
+    "name": "homebridge-espthermo",
     "version": "1.0.4",
-    "description": "HTTP controlled ESP8266 lock accessory plugin for Homebridge",
+    "description": "HTTP controlled ESP8266 thermometer accessory plugin for Homebridge",
     "author": {
         "name": "yancan#aprbrother.com"
     },
@@ -10,7 +10,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/volca/homebridge-esplock"
+        "url": "https://github.com/iphoneprogramozo/homebridge-espthermo"
     },
     "engines": {
         "node": ">=0.12.0",
